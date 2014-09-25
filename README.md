@@ -109,6 +109,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 5. [antichess](http://antichess.meteor.com/) - a chess variant in which the objective of each player is to lose all of his pieces
 6. [Movienr](http://www.movienr.com/) - social way of discovering movies while engaging with fellow movie addicts
 7. [Writ](http://writ.bassam.co/) - A Markdown app for mere mortals
+8. [Q42](http://q42.com) - Company website for a web developing agency ([source code](http://github.com/Q42/q42.nl) on github!)
 
 # Community
 
